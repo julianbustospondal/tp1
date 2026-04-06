@@ -22,4 +22,4 @@ Se pueden usar patrones para ser más eficientes:
 * `carpeta/` (Ignora todo el contenido de un directorio).
 
 ### Regla para ignorar `ignorado.txt`
-Para cumplir con la consigna de ignorar un archivo específico llamado `ignorado.txt`, el contenido dentro del archivo `.gitignore` debe tener simplemente el nombre del archivo. Quedaría configurado de la siguiente manera:
+Para cumplir con la consigna de ignorar un archivo específico llamado `ignorado.txt`, el contenido dentro del archivo `.gitignore` debe tener simplemente el nombre del archivo.
